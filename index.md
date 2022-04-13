@@ -1,9 +1,11 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog. We will discuss topics in science, AI, EO, life in general. Stay tuned with:
 
-![Image of fast.ai logo](images/logo.png)
+![Image of fast.ai logo](images/microcosm.jpg)
 
-## This is a title
+## Microcosm
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+...my little world for firends who are ready for more than day to day small talk.
 
-Pandzaa ce pokusati da vodi svoj *blog*.
+Thankfull to [fast.ai](https://www.fast.ai) for insipiring this *BLoG*.
+
+Pandzaa
